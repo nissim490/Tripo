@@ -1,13 +1,18 @@
  # Welcome Page
  <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/a.ico" height="550" width="700" /></p>
+
  # Load Site
    <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/c.ico" height="550" width="700" /></p> 
+
  # Data Confirmation
    <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/d.ico" height="550" width="700" /></p>
+
  # Classification 
    <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/e.ico" height="550" width="700" /></p>
+
  # Result
    <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/f.ico" height="550" width="700" /></p>
+   
  # Setting
    <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/b.ico" height="550" width="700" /></p>
 
