@@ -12,9 +12,11 @@
     # Result
    <p align="center"><img src="https://github.com/nissim490/Tripo/blob/
    master/images/f.ico" height="550" width="700" /></p>
+   
    # Setting
    <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/b.ico" height="550" width="700" /></p>
-## Software description  
+
+# Software description  
 There is a lot of information about trip locations over the internet. Sometimes the user can’t determine if this information is written by a location visitor or an expert advertiser.
 The internet changes all the culture of trip planning. In the past, tourist contact with a travel agent to plan trips. The agent has a significant impact on the tourist experience because he should match the trip plan to their expectation. Unfortunately, travel agent recommendation could be tended, because of foreign considerations such as money profit, personal relations, colleagues, etc. 
 Nowadays, travelers plan their trip decisions based on internet platforms and sites, such as Instagram, trips blogs, travel aggregator websites, and travel metasearch engines. The information that is published over the internet could be a personal experience or promotion. In most cases, the regular traveler obtains a huge amount of probably irrelevant or unreliable information. This previous knowledge has extremely effects on the reader's perspective. Personal experience is more honest and helps the readers to plan travels without any external foreign considerations.
