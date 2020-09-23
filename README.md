@@ -1,8 +1,8 @@
  # tripo
- <p align="center"><img src="https://github.com/nissim490/The-Library-System/blob/master/images/a.ico" height="250" width="300" /></p>
+ <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/a.ico" height="250" width="300" /></p>
 
   # b
-   <p align="center"><img src="https://github.com/nissim490/The-Library-System/blob/master/images/b.ico" height="250" width="300" /></p>
+   <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/b.ico" height="250" width="300" /></p>
 
 ## Software description  
 There is a lot of information about trip locations over the internet. Sometimes the user can’t determine if this information is written by a location visitor or an expert advertiser.
