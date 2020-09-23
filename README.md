@@ -12,7 +12,7 @@
 
  # Result
    <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/f.ico" height="550" width="700" /></p>
-   
+
  # Setting
    <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/b.ico" height="550" width="700" /></p>
 
@@ -30,3 +30,4 @@ We analyzed text trip reviews and determined the degree of interest relates to t
 * HTML
 * KNN algorithm
 * Spearman’s correlation 
+* The Stanford CoreNLP Natural Language Processing
