@@ -3,8 +3,9 @@
 
   # GUI
    <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/b.ico" height="250" width="300" /></p>
-### _<p align="center"> Start Panel </p>_
-  ![alt text](https://github.com/ziper02/Tripo/blob/master/images/c.JPG "Start Panel") 
+
+ ###  _<p align="center"> Start Panel </p>_
+   <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/c.ico" height="350" width="500" /></p> 
     # GUI
    <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/d.ico" height="250" width="300" /></p>
     # GUI
