@@ -1,9 +1,16 @@
  # tripo
  <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/a.ico" height="250" width="300" /></p>
 
-  # b
+  # GUI
    <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/b.ico" height="250" width="300" /></p>
-
+ # GUI
+   <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/c.ico" height="350" width="500" /></p>
+    # GUI
+   <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/d.ico" height="250" width="300" /></p>
+    # GUI
+   <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/e.ico" height="250" width="300" /></p>
+    # GUI
+   <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/f.ico" height="250" width="300" /></p>
 ## Software description  
 There is a lot of information about trip locations over the internet. Sometimes the user can’t determine if this information is written by a location visitor or an expert advertiser.
 The internet changes all the culture of trip planning. In the past, tourist contact with a travel agent to plan trips. The agent has a significant impact on the tourist experience because he should match the trip plan to their expectation. Unfortunately, travel agent recommendation could be tended, because of foreign considerations such as money profit, personal relations, colleagues, etc. 
