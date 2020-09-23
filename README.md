@@ -5,7 +5,7 @@
    <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/b.ico" height="250" width="300" /></p>
 
  ###  _<p align="center"> Start Panel </p>_
-   <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/c.ico" height="350" width="500" /></p> 
+   <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/c.jpg" height="350" width="500" /></p> 
     # GUI
    <p align="center"><img src="https://github.com/nissim490/Tripo/blob/master/images/d.ico" height="250" width="300" /></p>
     # GUI
